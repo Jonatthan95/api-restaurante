@@ -27,7 +27,7 @@
     "express-joi-validation": "^4.0.3",
     "joi-extract-type": "^15.0.8",
     "jsonwebtoken": "^8.5.1",
-    "mysql2": "^2.2.5",
+    "mysql2": "^3.9.8",
     "pg": "^8.4.1",
     "pg-hstore": "^2.3.3",
     "reflect-metadata": "^0.1.13",
