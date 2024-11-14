@@ -1,3 +1,3 @@
-FROM nginx:mainline-alpine
+FROM nginx:1.27.2-alpine3.20
 COPY nginx.conf /etc/nginx/conf.d/default.conf
 COPY /public /var/www/html/front
